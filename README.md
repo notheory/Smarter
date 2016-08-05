@@ -1,0 +1,1 @@
+Smarter will contain common algorithms.
