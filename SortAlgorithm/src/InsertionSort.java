@@ -1,4 +1,7 @@
-
+/**
+ * Insertion Sort
+ * @author fzj
+ */
 public class InsertionSort extends Sort{
 
 	public static void sort(Comparable[] a){
